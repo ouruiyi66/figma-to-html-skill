@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma to HTML"
+  short_description: "需 Figma 读取权限的页面复刻与自适应决策"
+  default_prompt: "Use $figma-to-html to recreate this Figma page as a high-fidelity HTML page with a balanced asset-size plan."
